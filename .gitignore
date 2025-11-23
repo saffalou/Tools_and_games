@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.swp
+*.tmp
+*.log
+
+# environments
+venv/
+env/
+.venv/
+
+# tooling
+.vscode/
+.idea/
+.pytest_cache/
+.mypy_cache/
+coverage.*
+
+# OS
+.DS_Store
