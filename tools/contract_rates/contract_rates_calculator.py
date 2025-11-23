@@ -1,6 +1,6 @@
 import os
 import csv
-from projects.Tools_and_games.tools.contract_rates_models import RateCalculator, ContractEstimator
+from projects.Tools_and_games.tools.contract_rates.contract_rates_models import RateCalculator, ContractEstimator
 
 # Instantiate helpers
 calculator = RateCalculator()
